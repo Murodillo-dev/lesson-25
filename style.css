@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    width: 1000px;
+    height: 100px;
+    background-color: teal;
+    padding: 0 50px;
+    margin: auto;
+}
+
+.navbar ul{
+    height: 100%;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar ul li{
+
+}
+
+.navbar ul li a{
+    color: white;
+    font-size: 35px;
+    text-decoration: none;
+}
